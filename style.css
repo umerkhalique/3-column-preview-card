@@ -102,4 +102,18 @@
     margin-top: 10px;
     cursor: pointer;
 }
-
+.btn1:hover{
+    border: 1px solid #fff;
+    background-color: #e28525;
+    color: #fff;
+}
+.btn2:hover{
+    border: 1px solid #fff;
+    background-color: #016972;
+    color: #fff;
+}
+.btn3:hover{
+    border: 1px solid #fff;
+    background-color: #00403f;
+    color: #fff;
+}
