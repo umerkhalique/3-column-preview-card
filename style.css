@@ -12,6 +12,8 @@
 }
 .inner{
     display: flex;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    border-radius: 7px;
 }
 .item1{
     width: 227px;
