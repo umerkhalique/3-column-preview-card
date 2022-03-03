@@ -106,19 +106,19 @@
     transition: all 0.3s ease-in-out;
 }
 .btn1:hover{
-    border: 1px solid #fff;
+    border: 2px solid #fff;
     background-color: #e28525;
     color: #fff;
     transition: all 0.3s ease-in-out;
 }
 .btn2:hover{
-    border: 1px solid #fff;
+    border: 2px solid #fff;
     background-color: #016972;
     color: #fff;
     transition: all 0.3s ease-in-out;
 }
 .btn3:hover{
-    border: 1px solid #fff;
+    border: 2px solid #fff;
     background-color: #00403f;
     color: #fff;
     transition: all 0.3s ease-in-out;
